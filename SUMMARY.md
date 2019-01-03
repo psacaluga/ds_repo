@@ -1,6 +1,6 @@
 # Table of contents
 
-* [EEEto - Prueba de Sistema de Diseño](README.md)
+* [EEEto - Sistema de Diseño](README.md)
 
 ## INTRODUCCIÓN
 
