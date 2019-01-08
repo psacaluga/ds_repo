@@ -1,4 +1,10 @@
 # Principios
 
-Tomando de referencia el proyecto realizado doeeet.com, el sector al que está dirigido, componentes electrónicos para el espacio.
+Los principios de diseño son:
+
+* **Modular** permitiendo ser implementado en productos derivados, escalar y mantener una consistencia. 
+* **Ligero** y **comprensible** para todos los stakeholders implicados en el sistema. 
+* Fácil de **compartir y mantener**.
+
+
 
